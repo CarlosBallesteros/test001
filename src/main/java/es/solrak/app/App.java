@@ -6,7 +6,7 @@ package es.solrak.app;
  */
 public class App {
     public static void main( String[] args ){
-        int numero = ;
+        int numero = 2;
         for ( int i = 0 ; i < numero ; i++){
             System.out.println( "Hello World!" + numero );
         }
