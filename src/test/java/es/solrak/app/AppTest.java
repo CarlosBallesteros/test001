@@ -32,7 +32,7 @@ public class AppTest {
 	 */
 	@Test
 	public void testApp() {
-		assert (2 + 4 - 1 == 5);
+		assert (2 + 4 - 1 == 6);
 		assert (true);
 	}
 }
